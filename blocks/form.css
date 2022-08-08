@@ -20,7 +20,6 @@
   line-height: 30px;
   color: #838383;
   padding: 0 15px;
-  
 }
 .form__label {
   font-family: "Inter", Arial, sans-serif;
@@ -32,7 +31,7 @@
 }
 .form__label:last-child {
   align-self: center;
-
+}
 .form__button {
   height: 60px;
   margin: 0 0 32px 0;
