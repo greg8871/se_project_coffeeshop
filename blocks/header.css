@@ -20,6 +20,8 @@
   padding-left: 50px;
   z-index: 1;
   max-width: 729px;
+  display: flex;
+  flex-direction: column;
 }
 .header__span-accent {
   display: block;

@@ -30,7 +30,7 @@
   line-height: 20px;
   display: flex;
   color: #fff;
-  margin-bottom: 0;
+  margin-bottom: 16px 0;
 }
 .card__list-divider {
   display: flex;
