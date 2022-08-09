@@ -17,7 +17,7 @@
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
-  padding-left: 80px;
+  padding-left: 50px;
   z-index: 1;
   max-width: 729px;
 }
@@ -41,7 +41,7 @@
 .header__description {
   max-width: 683px;
   margin: 28px 0 0;
-  padding-left: 80px;
+  padding-left: 50px;
   font-family: "Noto Serif", Times New Roman, sans-serif;
   font-size: 20px;
   line-height: 30px;
