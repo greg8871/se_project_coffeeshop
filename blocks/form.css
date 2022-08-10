@@ -5,7 +5,7 @@
 .form__fieldset {
   display: flex;
   flex-direction: column;
-  border: none;
+  border: hidden;
   padding: 0;
 }
 .form__input {
@@ -60,6 +60,12 @@
   vertical-align: middle;
   background: #2f80ed url(../images/check.svg);
 }
+.form__label_checkbox {
+  display: flex;
+  flex-direction: row;
+  margin-top: 32px;
+}
+
 /*.form__label_inline {
   display: flex;
   flex-direction: row;

@@ -21,6 +21,9 @@
   line-height: 30px;
   color: #fff;
 }
+.card__list-item:last-of-type {
+  margin-bottom: 0;
+}
 
 .card__list-item {
   font-family: "Noto serif", "Times New Roman", serif;
@@ -30,7 +33,7 @@
   line-height: 20px;
   display: flex;
   color: #fff;
-  margin-bottom: 16px;
+  /*margin-bottom: 16px;*/
 }
 .card__list-divider {
   display: flex;
