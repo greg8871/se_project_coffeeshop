@@ -60,10 +60,9 @@
   vertical-align: middle;
   background: #2f80ed url(../images/check.svg);
 }
-.form__label_checkbox {
+.form__label_type_checkbox {
   display: flex;
   flex-direction: row;
-  margin-top: 32px;
 }
 
 /*.form__label_inline {
