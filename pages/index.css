@@ -18,6 +18,7 @@
   height: 100vh;
   max-height: 800px;
   min-height: 720px;
+  position: relative;
 }
 .nav {
   display: flex;
