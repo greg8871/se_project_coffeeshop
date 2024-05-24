@@ -1,6 +1,6 @@
 .footer {
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
-  padding: 60px 100px 60px 80px;
+  padding: 60px 80px;
   box-sizing: border-box;
 }
 
@@ -23,8 +23,8 @@
 }
 
 .footer__logo {
-  width: 116px;
-  height: 21px;
+  width: 105px;
+  height: 39px;
   /* min-height: 224px; */
 }
 
