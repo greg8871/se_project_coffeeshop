@@ -13,16 +13,17 @@
   margin-top: 8px;
   font-family: "Inter", Arial, sans-serif;
   line-height: 30px;
-  color: #838383;
+  border-width: 1px;
   padding: 0 15px;
+  border-style: solid;
 }
 .form__fieldset {
   padding: 0;
   display: flex;
   flex-direction: column;
   border: hidden;
-  margin-left: 2px;
-  margin-right: 2px;
+  margin-left: 0;
+  margin-right: 0;
 }
 .form__label {
   font-family: "Inter", Arial, sans-serif;
