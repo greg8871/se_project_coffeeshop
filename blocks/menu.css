@@ -4,6 +4,7 @@
   padding: 100px;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 .menu__title {
   max-width: 780px;

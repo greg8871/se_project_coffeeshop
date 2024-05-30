@@ -19,7 +19,7 @@
   font-size: 60px;
   line-height: 70px;
   margin: 183px 0 0;
-  letter-spacing: -2px;
+  /* letter-spacing: -2px; */
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -30,7 +30,8 @@
 
 .header__span-accent {
   display: block;
-  font-family: "Inter", Arial, sans-serif;
+  font-weight: 400;
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-style: italic;
   font-size: 60px;
   line-height: 72px;
@@ -41,7 +42,7 @@
   font-size: 20px;
   line-height: 20px;
   margin: 28px 0 0;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

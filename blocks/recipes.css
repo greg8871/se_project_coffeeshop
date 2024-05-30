@@ -1,5 +1,6 @@
 .recipes {
   background-size: cover;
+  background-image: url(../images/background_recipes.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-color: #0a2750;

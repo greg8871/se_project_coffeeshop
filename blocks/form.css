@@ -5,6 +5,7 @@
 .form__input {
   border-radius: 4px;
   font-style: normal;
+  box-sizing: border-box;
   font-weight: normal;
   font-size: 20px;
   height: 60px;
@@ -20,6 +21,8 @@
   display: flex;
   flex-direction: column;
   border: hidden;
+  margin-left: 2px;
+  margin-right: 2px;
 }
 .form__label {
   font-family: "Inter", Arial, sans-serif;
